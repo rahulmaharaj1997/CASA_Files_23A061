@@ -1,0 +1,11 @@
+2024-10-27 09:07:28	INFO	::casa	
+2024-10-27 09:07:30	INFO	::casa	
+2024-10-27 09:07:30	INFO	::casa	
+2024-10-27 09:07:30	INFO	::casa	
+2024-10-27 09:07:34	INFO	::casa	CASA Version PIPELINE 6.4.1.12
+2024-10-27 09:07:35	INFO	::casa	
+2024-10-27 09:07:35	INFO	::casa	Found an existing telemetry logfile: /home/rahul/.casa/casastats-6.4.1.12-6010a351b498166-20241026-212044.log
+2024-10-27 09:07:35	INFO	::casa	Telemetry log file: /home/rahul/.casa/casastats-6.4.1.12-6010a351b498166-20241026-212044.log
+2024-10-27 09:07:35	INFO	::casa	Checking telemetry submission interval
+2024-10-27 09:07:35	INFO	::casa	Telemetry submit interval not reached. Not submitting data.
+2024-10-27 09:07:35	INFO	::casa	Next telemetry data submission in: 6 days, 12:13:09.742035
